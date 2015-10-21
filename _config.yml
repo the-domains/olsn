@@ -1,6 +1,6 @@
 name: olsn
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.8742211458738893
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: shares
     item: null
     url: null
+typography_spectrum: 0.49650481157004833
